@@ -10,7 +10,7 @@ https://www.w3schools.com/sql/default.asp
 Database tables and data on the right hand side if you run this example:
 https://www.w3schools.com/sql/trysql.asp?filename=trysql_select_all
 
-User AndrejPHP created a query to create the database in SQL, however his code appeared to be outdated when I tried to run it.
+I couldn't find a location on w3schools to download the database, so I googled it. I found that user AndrejPHP created a query to create the database in SQL, however his code appeared to be outdated when I tried to run it.
 https://github.com/AndrejPHP/w3schools-database
 
 I updated his code for it to be available to users to run as of 9/19/2019.
