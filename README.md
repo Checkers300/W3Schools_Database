@@ -2,12 +2,15 @@
 Database used on w3schools for SQL tutorials
 
 I'm not associated with W3Schools, this is their website:
+
 https://www.w3schools.com
 
 W3Schools database used in SQL tutorial here:
+
 https://www.w3schools.com/sql/default.asp
 
 Database tables and data on the right hand side if you run this example:
+
 https://www.w3schools.com/sql/trysql.asp?filename=trysql_select_all
 
 I couldn't find a location on w3schools to download the database, so I googled it. I found that user AndrejPHP created a query to create the database in SQL, however his code appeared to be outdated when I tried to run it.
